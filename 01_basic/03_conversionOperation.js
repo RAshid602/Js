@@ -8,3 +8,7 @@ let scoreInNumber = Number(score2);
 let isLoggedIn = "0";
 let canBeBoolean = Boolean(isLoggedIn);
 console.log(canBeBoolean);
+
+// in a nuttshell
+// 1 => true ,           0 =>false
+// "something" => true,  ""=>false
